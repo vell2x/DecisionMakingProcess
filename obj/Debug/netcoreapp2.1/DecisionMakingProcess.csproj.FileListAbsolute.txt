@@ -1,0 +1,11 @@
+C:\Users\vell6\source\repos\DecisionMakingProcess\DecisionMakingProcess\bin\Debug\netcoreapp2.1\DecisionMakingProcess.deps.json
+C:\Users\vell6\source\repos\DecisionMakingProcess\DecisionMakingProcess\bin\Debug\netcoreapp2.1\DecisionMakingProcess.runtimeconfig.json
+C:\Users\vell6\source\repos\DecisionMakingProcess\DecisionMakingProcess\bin\Debug\netcoreapp2.1\DecisionMakingProcess.runtimeconfig.dev.json
+C:\Users\vell6\source\repos\DecisionMakingProcess\DecisionMakingProcess\bin\Debug\netcoreapp2.1\DecisionMakingProcess.dll
+C:\Users\vell6\source\repos\DecisionMakingProcess\DecisionMakingProcess\bin\Debug\netcoreapp2.1\DecisionMakingProcess.pdb
+C:\Users\vell6\source\repos\DecisionMakingProcess\DecisionMakingProcess\obj\Debug\netcoreapp2.1\DecisionMakingProcess.csprojAssemblyReference.cache
+C:\Users\vell6\source\repos\DecisionMakingProcess\DecisionMakingProcess\obj\Debug\netcoreapp2.1\DecisionMakingProcess.csproj.CoreCompileInputs.cache
+C:\Users\vell6\source\repos\DecisionMakingProcess\DecisionMakingProcess\obj\Debug\netcoreapp2.1\DecisionMakingProcess.AssemblyInfoInputs.cache
+C:\Users\vell6\source\repos\DecisionMakingProcess\DecisionMakingProcess\obj\Debug\netcoreapp2.1\DecisionMakingProcess.AssemblyInfo.cs
+C:\Users\vell6\source\repos\DecisionMakingProcess\DecisionMakingProcess\obj\Debug\netcoreapp2.1\DecisionMakingProcess.dll
+C:\Users\vell6\source\repos\DecisionMakingProcess\DecisionMakingProcess\obj\Debug\netcoreapp2.1\DecisionMakingProcess.pdb
